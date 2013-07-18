@@ -36,6 +36,7 @@ data
   sql
   xml
   crypt
+  compress
   
 Internet
   winhttp
@@ -62,6 +63,7 @@ input
   HID
   
 others
+  uia
   wic
   wam
   color
